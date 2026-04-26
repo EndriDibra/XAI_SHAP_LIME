@@ -190,5 +190,3 @@ This project reflects my interest in combining:
 - Human-Centered Machine Learning  
 
 to build systems that are not only accurate, but also understandable.
-
-**Author: Endri Dibra**
